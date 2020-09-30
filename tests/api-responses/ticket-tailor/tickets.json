@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "object": "issued_ticket",
+      "id": "it_50198",
+      "barcode": "al4R5",
+      "barcode_url": "https://www.tickettailor.com/userfiles/cache/barcode/qr/attendee/50198/42bf63ef2a055b91a62f",
+      "created_at": 1587042697,
+      "custom_questions": [],
+      "description": "Free ticket",
+      "email": "john@example.com",
+      "event_id": "ev_40980",
+      "full_name": null,
+      "first_name": null,
+      "last_name": null,
+      "status": "valid",
+      "updated_at": 1587042697,
+      "voided_at": null,
+      "order_id": "or_737352",
+      "qr_code_url": "https://www.tickettailor.com/userfiles/cache/barcode/st/attendee/50198/42bf63ef2a055b91a62f"
+    }
+  ],
+  "links": {
+    "next": "/v1/events/{event_id}/issued_tickets?starting_after=it_120",
+    "previous": "/v1/events/{event_id}/issued_tickets?ending_before=it_100"
+  }
+}
